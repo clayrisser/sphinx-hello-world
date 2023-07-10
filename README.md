@@ -4,7 +4,7 @@
 
 Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
 
-
+![](assets/sphinx-hello-world.png)
 ## Support
 
 Submit an [issue](https://github.com/jamrizzi/sphinx-hello-world/issues/new)
